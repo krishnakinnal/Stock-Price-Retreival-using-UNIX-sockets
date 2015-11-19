@@ -6,4 +6,4 @@ Open a new terminal, run the client
 1. gcc client.c -o client
 2. ./client localhost 5001
 
-For user input, some examples are - 
+For user input, some examples are - SBIN.BO, MSFT, AAPL
